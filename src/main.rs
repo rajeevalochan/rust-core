@@ -1,5 +1,6 @@
-mod types;
-
+//mod types;
+mod strings;
 fn main() {
-    types::run();
+    //types::run();
+    strings::run();
 }
